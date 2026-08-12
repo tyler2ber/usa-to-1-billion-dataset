@@ -1,3 +1,4 @@
+import pandas as pd
 
 # data
 regions_coastal = {
@@ -9,7 +10,7 @@ regions_coastal = {
 }
 regions_coastal_total = sum(regions_coastal.values())
 
-# projection data
+# projections data w/ df_projections
 projections = {
     "East Coast north": -1,
     "East Coast south": -1,
@@ -18,6 +19,28 @@ projections = {
     "West Coast": -1
 }
 projections_total = -1
+
+df_projections = pd.DataFrame(columns=
+    [
+        "GEN",
+        "total_population",
+        "East Coast north",
+        "East Coast south",
+        "Great Lakes",
+        "Gulf Coast",
+        "West Coast"
+    ]
+).astype(
+    {
+        "GEN": "int64",
+        "total_population": "int64",
+        "East Coast north": "int64",
+        "East Coast south": "int64",
+        "Great Lakes": "int64",
+        "Gulf Coast": "int64",
+        "West Coast": "int64"
+    }
+)
 
 # PROJECTIONS
 print("\nPROJECTIONS")
@@ -50,11 +73,21 @@ while projections_total < 1000000000:
         # gen
         gen_counter += 1
 
-    # PRINT
+    # PRINT...
     print(f"====> usa_regions(gen{gen_counter}): {round(projections_total):,}")
-
-    entry_total = -1
     for projection in projections:
         print(f"- {round(projections[projection]):,} in {projection}")
 
+    # ...and update df_projections
+    df_projections.loc[len(df_projections)] = [
+        gen_counter,
+        round(projections_total),
+        round(projections["East Coast north"]),
+        round(projections["East Coast south"]),
+        round(projections["Great Lakes"]),
+        round(projections["Gulf Coast"]),
+        round(projections["West Coast"])
+    ]
+
 print("") # lul
+df_projections.to_csv("dataset/usa-to-1-billion.csv", index=False)
