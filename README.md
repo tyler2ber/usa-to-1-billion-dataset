@@ -8,30 +8,30 @@ Here's info from the dataset
 
 | GEN | total_population |
 | --- | --- |
-| 1 | 281548270 |
-| 2 | 422322405 |
-| 3 | 633483608 |
-| 4 | 950225411 |
-| 5 | 1425338117 |
+| 1 | 281,548,270 |
+| 2 | 422,322,405 |
+| 3 | 633,483,608 |
+| 4 | 950,225,411 |
+| 5 | 1,425,338,117 |
 
-GEN(1, total): 281548270 ... GEN(2, total): 422322405 ... GEN(3, total): 633483608 ... GEN(4, total): 950225411 ... GEN(5, total): 1425338117
+GEN(1, total): 281,548,270 ... GEN(2, total): 422,322,405 ... GEN(3, total): 633,483,608 ... GEN(4, total): 950,225,411 ... GEN(5, total): 1,425,338,117
 
 #### USA Population to 1 Billion (with regions)
 
 | GEN | total_population | East Coast north | East Coast south | Great Lakes | Gulf Coast | West Coast |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 281548270 | 74040972 | 47211247 | 46869214 | 62392003 | 51034834 |
-| 2 | 422322405 | 111061458 | 70816870 | 70303821 | 93588004 | 76552251 |
-| 3 | 633483608 | 166592187 | 106225306 | 105455732 | 140382007 | 114828376 |
-| 4 | 950225411 | 249888280 | 159337959 | 158183597 | 210573010 | 172242565 |
-| 5 | 1425338117 | 374832421 | 239006938 | 237275396 | 315859515 | 258363847 |
+| 1 | 281,548,270 | 74,040,972 | 47,211,247 | 46,869,214 | 62,392,003 | 51,034,834 |
+| 2 | 422,322,405 | 111,061,458 | 70,816,870 | 70,303,821 | 93,588,004 | 76,552,251 |
+| 3 | 633,483,608 | 166,592,187 | 106,225,306 | 105,455,732 | 140,382,007 | 114,828,376 |
+| 4 | 950,225,411 | 249,888,280 | 159,337,959 | 158,183,597 | 210,573,010 | 172,242,565 |
+| 5 | 1,425,338,117 | 374,832,421 | 239,006,938 | 237,275,396 | 315,859,515 | 258,363,847 |
 
-GEN(1, total): 281548270 ... GEN(2, total): 422322405 ... GEN(3, total): 633483608 ... GEN(4, total): 950225411 ... GEN(5, total): 1425338117
-* GEN(1, East Coast north): 74040972 ... GEN(2, East Coast north): 111061458 ... GEN(3, East Coast north): 166592187 ... GEN(4, East Coast north): 249888280 ... GEN(5, East Coast north): 374832421
-* GEN(1, East Coast south): 47211247 ... GEN(2, East Coast south): 70816870 ... GEN(3, East Coast south): 106225306 ... GEN(4, East Coast south): 159337959 ... GEN(5, East Coast south): 239006938
-* GEN(1, Great Lakes): 46869214 ... GEN(2, Great Lakes): 70303821 ... GEN(3, Great Lakes): 105455732 ... GEN(4, Great Lakes): 158183597 ... GEN(5, Great Lakes): 237275396
-* GEN(1, Gulf Coast): 62392003 ... GEN(2, Gulf Coast): 93588004 ... GEN(3, Gulf Coast): 140382007 ... GEN(4, Gulf Coast): 210573010 ... GEN(5, Gulf Coast): 315859515
-* GEN(1, West Coast): 51034834 ... GEN(2, West Coast): 76552251 ... GEN(3, West Coast): 114828376 ... GEN(4, West Coast): 172242565 ... GEN(5, West Coast): 258363847
+GEN(1, total): 281,548,270 ... GEN(2, total): 422,322,405 ... GEN(3, total): 633,483,608 ... GEN(4, total): 950,225,411 ... GEN(5, total): 1,425,338,117
+* GEN(1, East Coast north): 74,040,972 ... GEN(2, East Coast north): 111,061,458 ... GEN(3, East Coast north): 166,592,187 ... GEN(4, East Coast north): 249,888,280 ... GEN(5, East Coast north): 374,832,421
+* GEN(1, East Coast south): 47,211,247 ... GEN(2, East Coast south): 70,816,870 ... GEN(3, East Coast south): 106,225,306 ... GEN(4, East Coast south): 159,337,959 ... GEN(5, East Coast south): 239,006,938
+* GEN(1, Great Lakes): 46,869,214 ... GEN(2, Great Lakes): 70,303,821 ... GEN(3, Great Lakes): 105,455,732 ... GEN(4, Great Lakes): 158,183,597 ... GEN(5, Great Lakes): 237,275,396
+* GEN(1, Gulf Coast): 62,392,003 ... GEN(2, Gulf Coast): 93,588,004 ... GEN(3, Gulf Coast): 140,382,007 ... GEN(4, Gulf Coast): 210,573,010 ... GEN(5, Gulf Coast): 315,859,515
+* GEN(1, West Coast): 51,034,834 ... GEN(2, West Coast): 76,552,251 ... GEN(3, West Coast): 114,828,376 ... GEN(4, West Coast): 172,242,565 ... GEN(5, West Coast): 258,363,847
 
 ## States in each region
 Here are the states in each region
