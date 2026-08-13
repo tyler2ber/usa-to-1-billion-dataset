@@ -75,3 +75,18 @@ Here are the states in each region
 * Washington
 * Oregon
 * California
+
+## Developmental achievements
+America expects developmental achievements in multiple sectors. States, and regions of states, are expected to have:
+
+* **law:** judges/prosecutors/lawyers/cops for theft/fraud/violence
+* **property:** land/housing/items and business
+* **education:** reading/writing/math
+* **energy:** extraction/generation/transmission
+* **farm:** land/planting/machines
+* **factory:** materials/processing/production
+* **medical:** sanitation/treatment/emergency
+* **tech:** use/skilltraining/infrastructure
+
+Areas weren't considered states until reaching both population milestone and developmental achievement. Both are summarized by Settlerism, as Settler Property Theory (SPT). Info on that can be found here:
+https://docs.google.com/document/d/1HY_f2_q5IZrA1EyLss21L2W5vytYbSSvAqzO46vpFJ8/
