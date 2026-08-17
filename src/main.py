@@ -54,24 +54,24 @@ while projections_total < 1000000000:
         # gen (init)
         gen_counter = 1
 
-        # projections total (init)
-        projections_total = coastal_populations_total
-
         # projections (init)
         for projection in projections:
             projections[projection] = coastal_populations[projection]
+
+        # projections total (init)
+        projections_total = coastal_populations_total
 
     else:
 
         # gen
         gen_counter += 1
 
-        # projections total
-        projections_total = (projections_total / 2) * 3
-
         # projections
         for projection in projections:
             projections[projection] = (projections[projection] / 2) * 3
+
+        # projections total
+        projections_total = sum(projections.values())
 
     # PRINT...
     print(f"====> usa_regions(gen{gen_counter}): {round(projections_total):,}")
