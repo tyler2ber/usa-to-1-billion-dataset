@@ -1,14 +1,14 @@
 import pandas as pd
 
 # data
-regions_coastal = {
+coastal_populations = {
     "East Coast north": 74040972,
     "East Coast south": 47211247,
     "Great Lakes": 46869214,
     "Gulf Coast": 62392003,
     "West Coast": 51034834,
 }
-regions_coastal_total = sum(regions_coastal.values())
+coastal_populations_total = sum(coastal_populations.values())
 
 # projections data w/ df_projections
 projections = {
@@ -55,11 +55,11 @@ while projections_total < 1000000000:
         gen_counter = 1
 
         # projections total (init)
-        projections_total = regions_coastal_total
+        projections_total = coastal_populations_total
 
         # projections (init)
         for projection in projections:
-            projections[projection] = regions_coastal[projection]
+            projections[projection] = coastal_populations[projection]
 
     else:
 
