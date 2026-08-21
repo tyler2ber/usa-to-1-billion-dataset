@@ -68,7 +68,7 @@ Here are the states in each region
 * California
 
 ## Developmental achievements
-America expects developmental achievements in multiple sectors. States, and regions of states, are expected to have:
+There are multiple sectors for developmental achievements
 
 * **law:** judges/prosecutors/lawyers/cops for theft/fraud/violence
 * **property:** land/housing/items and business
@@ -79,5 +79,5 @@ America expects developmental achievements in multiple sectors. States, and regi
 * **medical:** sanitation/treatment/emergency
 * **tech:** use/skilltraining/infrastructure
 
-Areas weren't considered states until reaching both population milestone and developmental achievement. Both are summarized by Settlerism, as Settler Property Theory (SPT). Info on that can be found here:
+Historically speaking, areas in the USA weren't considered states until reaching both population milestone and developmental achievement. It's summarized in Settlerism, as Settler Property Theory (SPT), found here:
 https://docs.google.com/document/d/1HY_f2_q5IZrA1EyLss21L2W5vytYbSSvAqzO46vpFJ8/
