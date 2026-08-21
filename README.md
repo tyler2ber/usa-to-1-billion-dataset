@@ -24,48 +24,18 @@ Here's info from the dataset
 | 4 | 950,225,411 | 249,888,280 | 159,337,959 | 158,183,597 | 210,573,010 | 172,242,565 |
 | 5 | 1,425,338,117 | 374,832,421 | 239,006,938 | 237,275,396 | 315,859,515 | 258,363,847 |
 
-## States in each region
-Here are the states in each region
+## Regions
+Here's an overview of the regions:
+* **East Coast:** Maine, New Hampshire, Vermont, Massachusetts, New York, Connecticut, Rhode Island, Pennsylvania, New Jersey, Maryland, Delaware, West Virginia, Virginia, North Carolina, South Carolina, Georgia, Florida
+* **Great Lakes:** Wisconsin, Illinois, Indiana, Michigan, Ohio
+* **Gulf Coast:** Texas, Louisiana, Mississippi, Alabama, Florida
+* **West Coast:** Washington, Oregon, California
 
-#### East Coast north
-* Maine
-* New Hampshire
-* Vermont
-* Massachusetts
-* New York
-* Connecticut
-* Rhode Island
-* Pennsylvania
-* New Jersey
-* Maryland
-* Delaware
-* West Virginia
-* Virginia
+as well as the custom/other regions:
 
-#### East Coast south
-* North Carolina
-* South Carolina
-* Georgia
-* Florida
-
-#### Great Lakes
-* Wisconsin
-* Illinois
-* Indiana
-* Michigan
-* Ohio
-
-#### Gulf Coast
-* Texas
-* Louisiana
-* Mississippi
-* Alabama
-* Florida
-
-#### West Coast
-* Washington
-* Oregon
-* California
+* **East Coast (north):** Maine, New Hampshire, Vermont, Massachusetts, New York, Connecticut, Rhode Island, Pennsylvania, New Jersey, Maryland, Delaware, West Virginia, Virginia
+* **East Coast (south):** North Carolina, South Carolina, Georgia, Florida
+* **Other:** Alaska, Arizona, Arkansas, Colorado, Hawaii, Idaho, Iowa, Kansas, Kentucky, Minnesota, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Tennessee, Utah, Wyoming
 
 ## Developmental achievements
 There are multiple sectors for developmental achievements
