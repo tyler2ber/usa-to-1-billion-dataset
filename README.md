@@ -31,11 +31,10 @@ Here's an overview of the regions:
 * **Gulf Coast:** Texas, Louisiana, Mississippi, Alabama, Florida
 * **West Coast:** Washington, Oregon, California
 
-as well as the custom/other regions:
+as well as the custom regions:
 
 * **East Coast (north):** Maine, New Hampshire, Vermont, Massachusetts, New York, Connecticut, Rhode Island, Pennsylvania, New Jersey, Maryland, Delaware, West Virginia, Virginia
 * **East Coast (south):** North Carolina, South Carolina, Georgia, Florida
-* **Other:** Alaska, Arizona, Arkansas, Colorado, Hawaii, Idaho, Iowa, Kansas, Kentucky, Minnesota, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Tennessee, Utah, Wyoming
 
 ## Developmental achievements
 There are multiple sectors for developmental achievements
